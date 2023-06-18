@@ -1,11 +1,11 @@
 This case study uses MySQL. To successfully answer all the questions you should have been exposed to the following areas of SQL:
 
-Basic aggregations
-CASE WHEN statements
-Window Functions
-Joins
-Date time functions
-CTEs
+Basic aggregations,
+CASE WHEN statements,
+Window Functions,
+Joins,
+Date time functions,
+CTEs.
 
 Questions :
 1. Which product has the highest price? Only return a single row.
